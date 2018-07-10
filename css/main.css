@@ -380,5 +380,6 @@ a:hover, a:focus, a:active {
 
 .modal-body img
 {
+  padding-bottom: 1.5rem;
   max-width: 450px;
 }
