@@ -300,6 +300,7 @@ a:hover, a:focus, a:active {
   font-size: 13pt;
   font-weight: 300;
   margin: 0px;
+  margin-top: 10px;
 }
 .event-list > li > .info > ul{
   display: table;
