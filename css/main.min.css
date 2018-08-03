@@ -451,6 +451,6 @@ a:hover {
 }
 
 .carousel-item img{
-    width: 500px;
-    height: 750px;
+    width: 75%;
+    height: 100%;
 }
